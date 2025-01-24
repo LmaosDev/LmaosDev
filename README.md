@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **LmaosDev/LmaosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+This is the official GitHub account and associated repos of Lmaos, a group of fuckers doing absolute bullshit with tech
+
+There will never be illegalities here. We may or may not have privated repos with sketchy shit.
+
+This is mainly for ease of use for team members, api calls/webhooks, or just generally useful stuff we've made.
